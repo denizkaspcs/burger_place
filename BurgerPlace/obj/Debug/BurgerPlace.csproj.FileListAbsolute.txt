@@ -1,0 +1,13 @@
+C:\Users\deniz\source\repos\BurgerPlace\BurgerPlace\bin\Debug\BurgerPlace.exe.config
+C:\Users\deniz\source\repos\BurgerPlace\BurgerPlace\bin\Debug\BurgerPlace.exe
+C:\Users\deniz\source\repos\BurgerPlace\BurgerPlace\bin\Debug\BurgerPlace.pdb
+C:\Users\deniz\source\repos\BurgerPlace\BurgerPlace\obj\Debug\BurgerPlace.csprojAssemblyReference.cache
+C:\Users\deniz\source\repos\BurgerPlace\BurgerPlace\obj\Debug\BurgerPlace.Properties.Resources.resources
+C:\Users\deniz\source\repos\BurgerPlace\BurgerPlace\obj\Debug\BurgerPlace.csproj.GenerateResource.cache
+C:\Users\deniz\source\repos\BurgerPlace\BurgerPlace\obj\Debug\BurgerPlace.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\BurgerPlace\BurgerPlace\obj\Debug\BurgerPlace.exe
+C:\Users\deniz\source\repos\BurgerPlace\BurgerPlace\obj\Debug\BurgerPlace.pdb
+C:\Users\deniz\source\repos\BurgerPlace\BurgerPlace\obj\Debug\BurgerPlace.LoginForm.resources
+C:\Users\deniz\source\repos\BurgerPlace\BurgerPlace\obj\Debug\BurgerPlace.SignupForm.resources
+C:\Users\deniz\source\repos\BurgerPlace\BurgerPlace\obj\Debug\BurgerPlace.MainForm.resources
+C:\Users\deniz\source\repos\BurgerPlace\BurgerPlace\obj\Debug\BurgerPlace.UserControl1.resources
